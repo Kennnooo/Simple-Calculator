@@ -3,7 +3,7 @@
 A simple calculator web app built using **HTML, CSS, and JavaScript**. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## 🚀 Live Demo
-[Click here to try the calculator](https://yourusername.github.io/repository-name/)  
+[Click here to try the calculator](https://Kennnooo.github.io/Simple-Calculator/)  
 
 ---
 
